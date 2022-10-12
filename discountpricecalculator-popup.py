@@ -9,4 +9,4 @@ price = int(input('Write the product price: '))
 discount = int(input('Enter the discount percentage: '))
 finalPrice = price - discount * price / 100
 
-messagebox.showinfo("Calculation", 'The price of the ' + product + 'is it ' + (str(finalPrice))) 
+messagebox.showinfo("Calculation", 'The price of the ' + product + 'is ' + (str(finalPrice))) 
