@@ -1,4 +1,4 @@
-###Calculate a price with vat and discount
+###Calculate a price with vat and discount (With Pop-up alert)
 import tkinter
 from tkinter import messagebox
 root = tkinter.Tk()
